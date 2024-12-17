@@ -1,2 +1,2 @@
 # BiomeJS-Config
-BiomeJS  analogue Prettier
+BiomeJS  analogue Prettier And ESLint
